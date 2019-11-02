@@ -1,0 +1,125 @@
+Receive grade
+TO PASS80% or higher
+Grade
+100%
+We keep your highest score
+
+
+
+1
+Downloading1
+Linear Algebra
+Practice Quiz • 10 min
+Congratulations! You passed!
+TO PASS 80% or higher
+GRADE
+100%
+Linear Algebra
+TOTAL POINTS 5
+
+1.Question 1
+Let two matrices be
+
+A=[1−2−41],B=[0538]
+What is A + B?
+
+
+[13−19]
+
+[1−7−7−7]
+
+[1779]
+
+[17−19]
+Correct
+To add two matrices, add them element-wise.
+
+1 / 1 point
+
+2.Question 2
+Let x=⎡⎣⎢⎢8251⎤⎦⎥⎥
+What is 2 * x2∗x?
+
+
+[164102]
+
+[415212]
+
+⎡⎣⎢⎢164102⎤⎦⎥⎥
+
+⎡⎣⎢⎢⎢⎢415212⎤⎦⎥⎥⎥⎥
+Correct
+To multiply the vector x by 2, take each element of x and multiply that element by 2.
+
+1 / 1 point
+
+3.Question 3
+Let u be a 3-dimensional vector, where specifically
+
+u=⎡⎣218⎤⎦
+What is u^\text{T}u 
+T
+ ?
+
+
+⎡⎣812⎤⎦
+
+[218]
+
+[812]
+
+⎡⎣218⎤⎦
+Correct
+1 / 1 point
+
+4.Question 4
+Let u and v be 3-dimensional vectors, where specifically
+
+u=⎡⎣−343⎤⎦
+and
+
+v=⎡⎣315⎤⎦
+What is u^Tvu 
+T
+ v?
+
+(Hint: u^Tu 
+T
+  is a
+
+1x3 dimensional matrix, and v can also be seen as a 3x1
+
+matrix. The answer you want can be obtained by taking
+
+the matrix product of u^Tu 
+T
+  and vv.) Do not add brackets to your answer.
+
+10
+Correct
+1 / 1 point
+
+5.Question 5
+Let A and B be 3x3 (square) matrices. Which of the following
+
+must necessarily hold true? Check all that apply.
+
+
+A * B = B * AA∗B=B∗A
+
+
+If B is the 3x3 identity matrix, then A * B = B * A A∗B=B∗A
+
+Correct
+                        Even though matrix multiplication is not commutative in general (A*B \neq B*AA∗B≠B∗A for general matrices A, BA,B), for the special case where B=IB=I, we have A*B = A*I = AA∗B=A∗I=A, and also B*A = I*A = AB∗A=I∗A=A. So, A*B = B*AA∗B=B∗A.
+
+
+If C = A*BC=A∗B, then C is a 3x3 matrix.
+
+Correct
+                        Since A and B are both 3x3 matrices, their product is 3x3.  More generally, if A were an m \times nm×n. matrix, and B a n\times on×o matrix, then C would be m\times om×o.  (In our example, m=n=o=3m=n=o=3.)
+
+
+A*B*A = B*A*B A∗B∗A=B∗A∗B
+
+1 / 1 point
